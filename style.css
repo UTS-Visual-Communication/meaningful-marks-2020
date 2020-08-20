@@ -1,0 +1,64 @@
+body{
+	font-family: "motiva-sans";
+	background-color: rgb(254, 250, 223);
+	font-style: normal;
+	font-weight: 200;
+	margin: 0px;
+}
+h1 {
+	text-align: center;
+	font-size: 3em;
+	margin: 50px 0px;
+}
+h2{
+	margin: 50px 0px 15px 0px;
+}
+p{
+	font-size:17px;
+
+}
+main {
+	width:850px;
+	margin: 0px auto;
+}
+
+.nav{
+	text-align: center;
+	font-size: 2.5em;
+	text-transform: uppercase;
+	margin: 50px 0;
+}
+
+.current{
+	text-decoration: none;
+	color: black;
+}
+
+.float-left {
+	float:left;
+	display: block;
+	margin: 40px 40px 40px 0px;
+}
+
+.left-example {
+	float:left;
+	display: block;
+	margin: 0px;
+	width: 400px;
+}
+
+.right-example {
+	float:right;
+	display: block;
+	margin: 0px;
+	width: 400px;
+}
+
+.spacer {
+	clear:both;
+}
+
+ul {
+	text-decoration:none;
+	list-style-type: none;
+}

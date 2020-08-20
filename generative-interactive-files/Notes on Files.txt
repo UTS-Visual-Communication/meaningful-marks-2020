@@ -1,0 +1,9 @@
+All of these examples need to be inside the 'generative-interactive-files' folder in order to work. As they all reference the 'p5' folder. If you want to make a new copy of any of these examples copy the entire folder for the example and paste it back into the 'generative-interactive-files' folder. You can then rename the copied folder to anything you like.
+
+*colour*
+
+*poster-factory*
+Basic coded version of the generative poster. Click to see new compositions. Look at the code to change some of the parameters.
+
+*sol-le-witt*
+Basic coded version of a Sol Le Witt wall drawing. Click to see new compositions. Look at the code to change some of the parameters.
