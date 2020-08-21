@@ -2,7 +2,7 @@
 // number of rounds value below, at the moment
 // it will loop through the code and draw dots and lines 25 times
 // make this number smaller or larger to see what happens
-var numberOfRounds = 25;
+var numberOfRounds = 125;
 
 
 var dots = [];
