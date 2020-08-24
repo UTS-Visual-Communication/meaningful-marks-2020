@@ -1,7 +1,7 @@
 @meta: \
 README.md \
 @created: 24/05/2019 16:53 \
-@updated: 24/08/2020 13:07 \
+@updated: 24/08/2020 13:08 \
 @tags:
 
 
@@ -21,7 +21,7 @@ I would encourage you to run this twice - once with the rules as they are, a sec
 5. Get them to read through the instructions in full before they begin.
 6. As students are working on their poster, please give them feedback or encouragement with how they are going with the task.
 7. You will have to be popping in and out of the breakout rooms
-8. I (Andrew) will be popping around too.
+8. I (Andrew) will be popping around too. **you will need to make me co-host so I can move between the rooms**
 9. Try with student created algorithm / rules (bas this on how quickly they do first part)
 1. Once they have all finished please take a moment to have the groups look around the Miro board and to see what happened with everyone elses posters so they can see the variation from a simple set of instructions.
 
