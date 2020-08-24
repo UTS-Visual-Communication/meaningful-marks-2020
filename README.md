@@ -1,12 +1,13 @@
 @meta: \
 README.md \
 @created: 24/05/2019 16:53 \
-@updated: 24/08/2020 13:08 \
+@updated: 24/08/2020 13:10 \
 @tags:
 
 
 # Class Overview for Generative Design and Interactive Image Task
 
+On the web: [https://uts-visual-communication.github.io/meaningful-marks-2020/](https://uts-visual-communication.github.io/meaningful-marks-2020/)
 
 ## Task 1: Generative Poster Task (Time: Approximately 1hr)
 
